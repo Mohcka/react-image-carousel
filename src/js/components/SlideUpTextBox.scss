@@ -1,0 +1,22 @@
+.ani-content-container {
+  width: 500px;
+  height: 300px;
+
+  overflow: hidden;
+  z-index: 10;
+
+  bottom: -20%;
+  left: 5%;
+  position: absolute;
+}
+
+.ani-content {
+  // background-color: palegreen;
+  background-color: rgba(0, 0, 0, 0.301);
+  height: 300px;
+  color: white;
+  h2{
+    color: white;
+  }
+  position: absolute;
+}
